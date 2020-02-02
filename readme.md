@@ -1,7 +1,7 @@
 <p align="center"><h1>Piece Of Cake v0.1</h1></p>
 
 <p align="center">
-<img src="https://drive.google.com/file/d/1T15ZMt8MGQlCuof_abYAhDsRKSRWVXmF/view?usp=sharing" /> 
+<img src="https://lh3.googleusercontent.com/JAYQ1wRXERVbxZq05V0s1Qv2OVASwms6v7R5Anw3TTO0XdaI8t2H16dqZ_qIXlixpM6UrTF2rG_h7QAkf_xc=w1366-h657-rw" /> 
 </p>
 
 # Proyecto Piece Of Cake
