@@ -1,0 +1,11 @@
+/*----------------------------------------------------------*/
+/* Author: @jhonazsh                                        */
+/* -> These are the new styles for the principals templates */
+/*----------------------------------------------------------*/
+
+.parent-container{
+	background: url('/img/portadas/una.jpg');
+}
+.parent-inner-container{
+	background-color: #feffbdeb;
+}
